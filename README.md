@@ -4,8 +4,7 @@ Página independente para preparar anúncios manuais em espanhol com base em pro
 
 ## Acessar
 
-Quando o GitHub Pages concluir a publicação, a página ficará disponível em:
-https://eliasnrodrigues.github.io/dropxl-ebay-espanha/
+[Abrir o catálogo publicado](https://eliasnrodrigues.github.io/dropxl-ebay-espanha/)
 
 ## Como usar
 
