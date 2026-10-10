@@ -17,3 +17,8 @@ https://eliasnrodrigues.github.io/dropxl-ebay-espanha/
 ## Publicação
 
 O GitHub Actions publica o conteúdo da branch `main` no GitHub Pages.
+
+
+## Integração experimental
+
+O diretório `dropxl-ebay-europa/` contém uma proposta de worker para integração, ainda dependente de configuração e validação com contas e credenciais reais. Consulte o [README da integração](dropxl-ebay-europa/README.md). A página do catálogo serve apenas para pesquisa e preparação manual de anúncios.
